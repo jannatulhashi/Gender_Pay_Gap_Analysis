@@ -263,7 +263,7 @@ In general, the bigger the company, the larger the difference in bonus payments 
 
 ## Limitations:
 
-Though this dataset and its analysis provide valuable insights into gender pay disparities in the UK, highlighting progress, still there are some limitations.-
+Though this dataset and its analysis provide valuable insights into gender pay disparities in the UK, highlighting progress, still there are some limitations.
 
 - The analyses predominantly focus on binary gender categories, potentially excluding non-binary or other gender identities.
 
