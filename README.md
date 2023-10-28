@@ -260,3 +260,35 @@ This chart lists the top 10 job areas( (based on SIC codes) with big pay differe
 This graph illustrates how the bonus pay gap between genders changes as companies get larger. Starting with smaller firms of 250-499 employees, the difference in bonus pay between genders is around 23%. As companies grow in size, this gap tends to increase, peaking near 30% for companies with 5,000 to 19,999 employees. This suggests that larger companies, on average, have a more significant difference in bonus wages between men and women.
 
 In general, the bigger the company, the larger the difference in bonus payments between male and female employees. It's essential for companies, especially larger ones, to work towards ensuring bonuses are distributed equitably. For larger organizations, it's crucial to prioritize inclusivity, ensuring that bonuses are given fairly across genders.
+
+## Limitations:
+
+Though this dataset and its analysis provide valuable insights into gender pay disparities in the UK, highlighting progress, still there are some limitations.-
+
+- The analyses predominantly focus on binary gender categories, potentially excluding non-binary or other gender identities.
+
+- Trends over the years do not account for external factors that might influence the pay gap.
+
+- The representation across sectors based on SIC codes doesn't indicate the causative factors behind the pay gaps.
+
+- Company size in terms of employee count may not necessarily correlate with its revenue or industry influence, potentially affecting bonus distributions.
+
+## Recommendations:
+
+Addressing the gender pay disparities highlighted in the analysis is crucial for a more inclusive workplace. Here are some recommendations to bridge these gaps and promote equality:
+
+**Yearly Pay Gaps:** Companies should review their pay scales yearly to ensure they're moving towards equal pay for both genders. Training programs on unconscious bias can also help.
+
+**Bonus Differences:** Ensure that bonuses are given based on performance, not gender.
+
+**Top-Paying Jobs:** Create mentorship and training programs specifically aimed at preparing women for leadership and top-paying roles. Encourage a diverse range of applicants for top positions.
+
+**Company Bonuses:** Encourage companies to be transparent about bonus structures and amounts. This way, everyone knows they're getting a fair deal.
+
+**Company Pay Rates:** Companies that have bigger pay gaps should be encouraged to attend diversity and inclusion workshops. They should also be made aware of the benefits of a diverse workforce.
+
+**Bonus Pay Gaps:** Companies should set a goal of zero difference in bonuses between genders. They can do this by regularly reviewing and adjusting their bonus policies.
+
+**Mid-Level Jobs:** Encourage companies to have balanced recruitment strategies. This can involve things like blind recruitment, where names or genders are hidden during initial application reviews.
+
+**Sectors with Big Pay Gaps:** Industries with the most significant disparities should be the focus of national campaigns promoting gender equality. Sharing best practices from sectors with lower gaps can be helpful.
