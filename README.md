@@ -1,4 +1,4 @@
-# "Gender Pay Gap Analysis"
+# "UK Gender Pay Gap Analysis"
 Exploring wage gaps between genders in UK companies with 250+ employees from 2018-2023.
 
 ## About the Dataset: 
