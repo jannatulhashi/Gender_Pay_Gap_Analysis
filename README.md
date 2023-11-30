@@ -15,7 +15,7 @@ This collection holds information gathered by the Gender Pay Gap Service from 20
 
 **Acknowledgements**
 
-All data has been taken from the GOV.UK Gender Pay Gap Service's downloads, available here: [(https://gender-pay-gap.service.gov.uk/viewing/download)]
+All data has been taken from the GOV.UK Gender Pay Gap Service's downloads, available here: [Gender Pay Gap Data](https://gender-pay-gap.service.gov.uk/viewing/download)
 
 ## Why did I choose this dataset?
 
