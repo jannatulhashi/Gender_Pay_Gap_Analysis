@@ -1,5 +1,5 @@
 # "Gender Pay Gap Analysis"
-Exploring wage gaps between genders in UK companies with 250+ employees from 2018-2023.
+Analyzing gender pay gap data from UK companies with over 250 employees from 2018 to 2023 using Python, to identify wage and bonus disparities, aiming to inform strategies for gender pay equity.
 
 ## About the Dataset: 
 
