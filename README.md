@@ -109,7 +109,7 @@ I chose this dataset because it focuses on gender pay differences, a key aspect 
 
 9: How does the average bonus pay difference between genders vary across different employer sizes?
 
-## Instructions:
+## Project Work:
 
 **1: How have the Mean and Median Hourly Pay Gaps changed over the years, and what does the trend indicate about gender pay equity?**
 
